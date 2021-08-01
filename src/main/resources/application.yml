@@ -1,0 +1,9 @@
+BACKEND_URLS:
+  STAGING_DEV:
+    URL: "urls.for.staging.and.dev"
+  PRODUCTION1:
+    URL:  "urls.for.production1"
+  PRODUCTION2:
+    URL:  "urls.for.production2"
+  PRODUCTION3:
+    URL:  "urls.for.production3"
